@@ -1,11 +1,17 @@
-# kodluyoruzilkrepo
+# Kodluyoruzilkrepo
 
 Kodluyoruz Front-End Projesi kapsamında açtığım ilk repo
 
+![proje screenshotı](https://postimg.cc/kDL1kLq3)
 
 ## Installation
 
-Öncelikle projeyi clonelayın (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın
+
+git clone https://github.com/atakont/kodluyoruzilkrepo.git
+---
+
+
 
 ## Usage
 
